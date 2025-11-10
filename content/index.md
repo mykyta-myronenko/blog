@@ -3,32 +3,24 @@ permalink: home
 publish: true
 date published: 2024-10-04
 date last modified: 2025-11-10
-cssclasses:
-  - hide-title
 title: Home
 ---
-[[About this blog|About]] · [[Thoughts/8 Interests/2 Writing/Blog/Contact]]
+Hi! I'm a London-based, artist. My current focus is film making and animation.
 
-# Treat film like painting
+If you are interested in collaborating on a project, or want to have a chat, don't hesitate to contact me at mykmyro@gmail.com or on [my YouTube channel](https://www.youtube.com/@nickshats)
+
+For the list of the tools I use, see [[My Toolbox]].
+
+---
+
 ![[Treat film like painting]]
 
-# Did online content kill TV sketch comedy
-![[Did online content kill TV sketch comedy]]
-
-# Astronaut Concept Art
 ![[Astronaut Concept Art]]
 
-# What I learned modelling in Blender for the first time
 ![[What I learned modelling in Blender for the first time]]
 
-# I will give film making my best shot
-![[I will give film making my best shot]]
-
-# Working on my first films with zero skills
 ![[Working on my first films with zero skills]]
 
-# Too anxious to create
-![[Too anxious to create]]
+---
 
-# Older Posts
 - [[In Defence of Faceless and Mundane]]
