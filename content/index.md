@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/","title":"Home","created":"2024-10-04","modified":"2025-11-10","published":"2024-10-04","cssclasses":"hide-title"}
+{"publish":true,"permalink":"/index.md","title":"Home","created":"2024-10-04","modified":"2025-11-10","published":"2024-10-04","cssclasses":"hide-title"}
 ---
 
 [[About this blog\|About]] · [[Contact]]
