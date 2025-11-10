@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"too-anxious-to-create","created":"2024-09-16","modified":"2025-11-10T18:33:05.178+00:00","published":"2024-09-16","tags":["film_making","architecture"],"cssclasses":""}
+{"publish":true,"permalink":"too-anxious-to-create","created":"2024-09-16","modified":"2025-11-10T22:20:03.553+00:00","published":"2024-09-16","tags":["film_making","architecture"],"cssclasses":""}
 ---
 
 

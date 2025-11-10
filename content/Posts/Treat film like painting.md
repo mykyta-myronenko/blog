@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"treat-film-like-painting","description":"A short essay about reframing film production for independent creators into a less regimented, more freeing experience.","created":"2024-10-08","modified":"2025-11-10T22:15:57.845+00:00","published":"2024-10-08","tags":["evergreen","independent_production","film_making"],"cssclasses":""}
+{"publish":true,"permalink":"treat-film-like-painting","description":"A short essay about reframing film production for independent creators into a less regimented, more freeing experience.","created":"2024-10-08","modified":"2025-11-10T22:19:55.288+00:00","published":"2024-10-08","tags":["evergreen","independent_production","film_making"],"cssclasses":""}
 ---
 
 
@@ -17,13 +17,13 @@ I’m working on an animation, so my process at the moment looks something like 
 
 Once there’s a rough cut done, I’d say I’m in post-production. And with animation in particular there is room to change things, because… you are kind of painting but in motion. You start with a storyboard, then you find key frames^[the most impactful and important poses], then add tweens(if you want)^[In-betweens, or secondary key frames in-between], colour it (if you want), add shading (..you get it), etc.
 
-Really you *could* even stop at a storyboard, or an animatic. It wouldn’t tell a story as well as a completed version of the film, but there is still a narrative that the viewer can follow, presented consistently. And leaving yourself a choice to opt out of finishing the project early has value. An idea that works as a script, or in a comic[^2] is not always worth translating into film / animation production. 
+Really you _could_ even stop at a storyboard, or an animatic. It wouldn’t tell a story as well as a completed version of the film, but there is still a narrative that the viewer can follow, presented consistently. And leaving yourself a choice to opt out of finishing the project early has value. An idea that works as a script, or in a comic[^2] is not always worth translating into film / animation production.
 
 > [!warning] A caveat
 > This won’t work for everyone of course, especially once a team is too big to fit in one room.
-> 
+>
 > I’m working alone, so I can afford to take my time, to swerve in new directions, to improvise, do last minute additions (where they make sense). Having a more loose approach gives me a lot of freedom.
-> 
+>
 > Once you add more people into the mix, there is more need for communication, planning and managing and this house of cards will surely break down. But for indies and smaller teams it’s a great way to leverage skills of each artist in a more natural, less constricted way.
 
 The beauty is you can stop at any point, and you have a completed piece if you are working consistently. This approach lies in contrast to doing things hyper-sequentially, which drains me off motivation. It feels like I’m just completing a grocery checklist, but it takes 8 hours to get the baby carrots from the produce section. Not much freedom for the amount of work I’m committing.
@@ -33,7 +33,8 @@ The beauty is you can stop at any point, and you have a completed piece if you a
 
 The proposed ‘multithreaded’ approach I’d argue may help alleviate this scary dip motivation, because the piece is done when you feel like it is. If you are burnt out, and feel like it can live without a score for example—that’s fine. Maybe you shelve it, or maybe it’s good enough.
 
-This way of working can also help to: 
+This way of working can also help to:
+
 - cross-pollinate ideas across “departments”
 - make it clear which corners to cut, and reveal what is missing
 - maintain motivation
@@ -41,7 +42,7 @@ This way of working can also help to:
 
 # since a painting was mentioned.. I should prob show some
 
-To *illustrate* my point look at one of Da Vinci’s unfinished works.
+To _illustrate_ my point look at one of Da Vinci’s unfinished works.
 
 ![Leonardo da Vinci, The Virgin, and Child with Saint Anne](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg/1527px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg)
 
@@ -63,7 +64,7 @@ Depending on who you are, you might say it’s unfinished, but if you can accept
 
 And here is the version of the painting that might look more "finished"… except it was made 11 years prior. Cézanne painted this particular landscape many times in his later life, and many of the later versions are experimental veering into what-would-be called Cubism.[^1]
 
-My concluding point comes down to this. Who is to say that the 1895 version of *Mont Sainte-Victoire* is the "more finished" one? If the intent was to abstract and experiment then I’d argue that the later versions are just as complete. And I think this is a healthy way of working on a piece of art.
+My concluding point comes down to this. Who is to say that the 1895 version of _Mont Sainte-Victoire_ is the "more finished" one? If the intent was to abstract and experiment then I’d argue that the later versions are just as complete. And I think this is a healthy way of working on a piece of art.
 
 If you can find an approach to create without being held hostage by your own piece of work, then the relationship with the process becomes a lot less painful.
 

@@ -1,15 +1,15 @@
 ---
-{"publish":true,"permalink":"blender-first-time","created":"2024-09-17","modified":"2025-11-10T22:15:53.976+00:00","published":"2024-09-17","tags":["blog","3D-modelling","film_making"],"cssclasses":""}
+{"publish":true,"permalink":"blender-first-time","created":"2024-09-17","modified":"2025-11-10T22:19:47.859+00:00","published":"2024-09-17","tags":["blog","3D-modelling","film_making"],"cssclasses":""}
 ---
 
 
-For the film I’m currently working on (working title: *[[Projects/stuck floating animation project\|stuck floating]]*) I’ve decided that the best aesthetic is hybrid animation, combining 3D and 2D techniques.
+For the film I’m currently working on (working title: _[[Projects/stuck floating animation project\|stuck floating]]_) I’ve decided that the best aesthetic is hybrid animation, combining 3D and 2D techniques.
 
 So I launched blender and for the past week have been learning the ins-and-outs. By now I have a basic grasp on how to box model.
 
-## Box modelling 
+## Box modelling
 
-It’s a technique used in 3D modelling where you start with a basic object, like a cube, and shape it into a more complex model. In Blender you’d do it by subdividing faces and edges, knife-cutting planes, adding ridges, extruding parts or moving vertices around - move, rotate and scale. 
+It’s a technique used in 3D modelling where you start with a basic object, like a cube, and shape it into a more complex model. In Blender you’d do it by subdividing faces and edges, knife-cutting planes, adding ridges, extruding parts or moving vertices around - move, rotate and scale.
 
 This method helps to keep the mesh size down, meaning it is more performant for scenes with lots of objects, and it's easier to work with the mesh further (i.e UV mapping and weight painting).
 
@@ -25,7 +25,7 @@ The storyboard, although very taxing, considering how many choices I have to mak
 
 One important one is a rotary telephone, which I think is a perfect first modelling project for beginners. It has a variety of shapes, you can keep it quite low poly or go for a smoother look.[^4]
 
-So here’s what I have so far. 
+So here’s what I have so far.
 
 ![SFA_rotary phone (low poly)](https://www.dropbox.com/scl/fi/taeffwrw6l1em9ha5bjc2/SFA_rotary-phone-low-poly.png?rlkey=4uohghag5kjdrykycr85xdqp5&st=7wdht5nq&raw=1)
 

@@ -1,12 +1,12 @@
 ---
-{"publish":true,"permalink":"internet-killed-tv-sketches","created":"2024-10-04","modified":"2025-11-10T18:34:39.999+00:00","published":"2024-10-04","tags":["film_making"],"cssclasses":""}
+{"publish":true,"permalink":"internet-killed-tv-sketches","created":"2024-10-04","modified":"2025-11-10T22:19:08.685+00:00","published":"2024-10-04","tags":["film_making"],"cssclasses":""}
 ---
 
 
 > [!summary] For context:
-> Originally I wrote this as a comment under Tomska’s “[Who Killed Comedy?](https://www.youtube.com/watch?v=hrEv7gLKoo8)”, but thought it’d be worth sharing here too. The super short video summary is: *with the rise of social media, and Internet video comedy on sites like YouTube and TikTok, we have killed off TV sketch comedy, meaning there might come a time when we will never have the likes of Key & Peele, or Monty Python to enrich our cultural zeitgest*.
+> Originally I wrote this as a comment under Tomska’s “[Who Killed Comedy?](https://www.youtube.com/watch?v=hrEv7gLKoo8)”, but thought it’d be worth sharing here too. The super short video summary is: _with the rise of social media, and Internet video comedy on sites like YouTube and TikTok, we have killed off TV sketch comedy, meaning there might come a time when we will never have the likes of Key & Peele, or Monty Python to enrich our cultural zeitgest_.
 
-It's sad to see TV sketch comedy go, but I'd like to believe that is the case because of how accessible it has become for an average person to create. As Tomska mentions in the video, there are so many incredible film makers that to me it feels like a fair evolution, or maybe just a metamorphosis. It’s not completely better, but it’s different. In any case, the silver lining is that the art of film-making has been democratised.  
+It's sad to see TV sketch comedy go, but I'd like to believe that is the case because of how accessible it has become for an average person to create. As Tomska mentions in the video, there are so many incredible film makers that to me it feels like a fair evolution, or maybe just a metamorphosis. It’s not completely better, but it’s different. In any case, the silver lining is that the art of film-making has been democratised.
 
 That said, it's an interesting thought that with the death of the TV-produced sketch comedy sets, we are losing that larger narrative - the album-like feeling to the comedy set that gives you something to think about after you are done with the show. The channels who sometimes come close (or have the resources to achieve this consistently) are Almost Friday TV and Chris & Jack. They both seem to operate on a larger scale, with more budget and planning, wider networks. Basically they aren't making shorts out of their mom's garage, so they have the opportunity to have a more coherent throughline.
 

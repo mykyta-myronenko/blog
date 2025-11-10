@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"giving-film-making-best-shot","created":"2024-09-16","modified":"2025-11-10T18:34:29.987+00:00","published":"2024-09-16","tags":["film_making"],"cssclasses":""}
+{"publish":true,"permalink":"giving-film-making-best-shot","created":"2024-09-16","modified":"2025-11-10T22:20:28.459+00:00","published":"2024-09-16","tags":["film_making"],"cssclasses":""}
 ---
 
 

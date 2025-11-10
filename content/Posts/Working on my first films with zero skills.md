@@ -1,11 +1,12 @@
 ---
-{"publish":true,"permalink":"first-films-zero-skills","created":"2024-09-16","modified":"2025-11-10T19:46:49.041+00:00","published":"2024-09-16","tags":["film_making"],"cssclasses":""}
+{"publish":true,"permalink":"first-films-zero-skills","created":"2024-09-16","modified":"2025-11-10T22:19:36.977+00:00","published":"2024-09-16","tags":["film_making"],"cssclasses":""}
 ---
 
 
 One of the films I am currently working on requires 3D animation,[^1] the bad news is that I have nearly zero experience with this. I am very good with CAD 3D modelling, but that’s different from what is necessary for film animation. I’ve made the donut 5 years ago[^2], but most of what I’d learned has been forgotten. In essence, for this project I need to re-learn Blender.
 
 Specifically I will need to learn from scratch:
+
 - 3D modelling
 - character rigging
 - 3D animation
@@ -15,6 +16,7 @@ Specifically I will need to learn from scratch:
 On top of this I am not great at video editing, and recently decided to switch away from all Adobe products[^3], so I plan on using DaVinci Resolve. Which I have never used, so will need to learn.
 
 Some more challenges will include:
+
 - storyboarding (which I have done once before)
 - 2D hand animation (have some experience, but not with Blender’s Grease Pencil)
 - sound design and score
