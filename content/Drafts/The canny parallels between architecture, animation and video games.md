@@ -1,0 +1,38 @@
+---
+tags:
+  - decision_making
+  - workplace
+  - ethics
+  - design_thinking
+  - architecture
+  - blog
+  - idea
+  - video_games
+status: draft
+---
+
+If I were ever to be offered an option to see how my future plays out I would probably... still take it but hesitate for a good moment. The reason is, I am deathly terrified of even a small potential of it being a nightmare of monotony, because there is an almost guarantee that whatever is 'planned' for me by the 'fate' is unwavering, unchangeable - I am just a passenger. This may seem like a very depressing thought, but I am approaching it from a less emotional stand point, and to me, as long as I don't know T H E A N S W E R I still _feel_ like the driver in my day to day (as long I don't think about it). The idea of determinism is probably one of those unknowable concepts because to get it we have to see people from _outside_ the human perspective which is impossible at least yet. BUT... _I_ have proof! or something like that right.
+
+Based on all of my interests from early on in life when I was a wee child to now, I have found interests in very different things that would fundamentally lead me on the same path. As a young boy as all young boys of digital age are I loved video games so my passion, for some time, was to design video games. I wanted to learn programming, I played a lot of video games and I didn't really understand how the industry worked (I think I see why I didn'tmake it as a game designer%%wouldn't make it as a game designer. I hadn't even tried to be one.%% ). I got far into it that I was modding stuff and by A-levels I actually started light programming and made two simple Unity games. Later when I discovered how easy[^1] it was to make your own animations and how satisfying the outcome was, I got hooked on _that_. I would spend a big portion of my time understanding the fundamentals, learning how the motion can be represented in still images and analyising some of the greatest animated pictures. Unlike the video game hobby I had a lot more to show for it[^2] but in the end I settled with a different passion - architecture.
+
+I never really was an admirer of architectural forms or the history behind the Parthenon when my parents made me visit it as a child[^3] but I now know that I always had a passion for design - this I learned only _after_ getting into the architecture university. The process of thinking of how people might use the building and the need to analyse spaces, map the underlying principles that make the thing tick, and have a beautiful and functioning _thing_ as the outcome was exhilarating!.. But not for the first time.
+
+You see, architecture, animation and video games have so much in common that I think that no matter which one of them I had picked the outcome would be almost equal, it just happened that the flow of life made me commit to architecture. If I had another 10 years I would have probably switched between 5 more design-based, studio-team, artistic-but-also-very-technically-involved industries and just abandoned them when things got a little too difficult. With architecture I _had_ to get over this **hump** because my parents were paying a fortune for my degree. Once I was over the first big hurdle of learning how to design, the mild interest in the field grew into a passion that extended beyond only enjoying the design process.
+
+If I was more decisive and said "I want to do video games for real" when I was 14, I would have gotten there by now, and same goes for animation too and my life would be completely different, right? Ya, no, wronggg. Because game design, animation and architecture, where it matters to me and where it matters to the process of creation are literally the same. You sit in a big studio room, staring at a screen for 9-14 hours a day, having to crunch hard at the end of the project to be underpaid by almost all studios in the industry and the outcome is something that probably will benefit very few people - mostly the richest ones who can afford the funding of it.[^4] As far as the process, no matter if I am designing a building, a level, or story boarding for a cinematic there will be preliminary research, iterative explorations of the designs and a technical execution of the final product. There is a difference though, and I have found how to express what it is for me only recently.
+
+Right now, I believe that architecture will be the most fulfilling job in the long run. I am not aiming to get rich quick, I don't really care about fame - the fewer people recognise, me the better - but the satisfaction of other people and simply knowing for a fact, that someone truthfully, _genuinely_ enjoys whatever it is I contribute to makes me a little happier. With architecture being so environmentally impactful[^5] on the world, I can safely say that even in the darkest of days, as long as I am working towards betterment of the common good, there is a reason to keep going - and its a strong one.
+
+I do believe that when I was picking from the options of being an architect, an animator or agame designer, I picked the right A.[^6]
+
+[^1]: Yeah yeah it takes time but really it's pretty repetitive and chill once you get the key frames down. That's why all the big girl firms outsource the tedious work to unpaid animation sweatshops in Southern Hemi.
+
+[^2]: It _is_ easy to animate, I told you. And it helps that you can't be distracted by playing your own animation or other peoples animations like you do with video games... Well, yes but maybe to a lesser extent.
+
+[^3]: I feel really guilty about this still, okay? I just wish I was more into it back then and I had appreciated the opportunity they had given me because _I don't know when I will be able to_ visit it next time, and also they are doing some developments around it which _might change it forever for the worse_ and _I didn't even get to see it_ and appreciate in its glory, mostly untainted days. (NOTE: things in italics are read in one breath btw)
+
+[^4]: It is likely that most creative jobs are like that, and maybe people from all office/studio jobs will relate to many parts of this, but design industries in particular seems to suffer all of these underlying problems across the board.
+
+[^5]: all puns intended
+
+[^6]: Even then... I reserved the right to stand by the fact that no matter what I picked, I'll probably end up a screen monkey executing commands that AI is too dumb to do just yet, until I am completely replaced by the Skynet, hence life is meaningless - there an epilogue that was placed in footnotes, how subversive.
