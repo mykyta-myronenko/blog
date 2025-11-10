@@ -4,6 +4,7 @@ publish: true
 date published: 2024-09-23
 date last modified: 2024-09-23
 ---
+
 This is a little post about what software and hardware I use when working on my little films. I'm always curious to know what other people are using, so I thought I'd share, even if only to have this as an inventory list for myself.
 
 I want to note, that to start with making things it's not necessary to go out and buy expensive tools (or the tools listed below). Best policy is to use what you already have, and expand your toolbelt slowly, when necessary, and when affordable. Most things I own I got second-hand or for free.
@@ -16,7 +17,6 @@ I used to host with [blot.im](https://blot.im), but since write my notes and scr
 
 Obsidian is a mardkown text editor. It comes for free unless you want their cloud sync or their online publishing service. Its stand-out features revolve around linking notes together to relate new ideas with old ones, and create structures that help you rediscover old thoughts in new contexts. I don't dive too deeply into all that, and mostly use it as a wiki to manage my personal notes and projects.
 
-
 ### 3D modelling and animation
 
 I use [Blender](https://www.blender.org) for most things 3D, including modelling characters and environments, rigging, texturing, animating, rendering, etc. It's a great free and open-source tool, and I'd love if more tools as powerful and available existed.
@@ -27,7 +27,7 @@ This is very niche, and not worth learning for the sake of film making. It's mor
 
 The geometry could be made in Rhino and moved to Blender for texturing animation and detailing.
 
-***
+---
 
 To examplify the distinction between Blender and Rhino: For a film, I wouldn't model a skyscraper in Blender - not precise enough; and I wouldn't be making a water bottle in Rhino - overkill, I could do this in a minute in Blender without the need to export & import. Since the animation happens in Blender, all the 3D scene assets must end up in here.
 
@@ -51,7 +51,6 @@ Cannon EOS 700d, I bought off of my friend for £200. DSLRs are not ideal for fi
 What I dislike about using this DLSR is that it shuts off after an hour of filming (the sensor is not intended for extended filming), and you can't use EOS 700d as a webcam - Cannon's drivers and PC apps don't support it.
 
 That said, the benefit is that I have two separate cameras, if I need it for some scene (i.e. cross-shooting a dialogue). The challenge would be setting them up and editting the footage in a way that the viewer is not distracted by the differences in video quality between the two sensors.
-
 
 ##### Tripod
 
@@ -81,10 +80,9 @@ It's... not the best, but for the price it's good. The sound to my unsophisticat
 
 Ideally I'd get a wireless lav at some point, but BOYA is fine for the time being.
 
-
 #### Music
 
-##### Instruments 
+##### Instruments
 
 ###### Acoustic Guitar
 

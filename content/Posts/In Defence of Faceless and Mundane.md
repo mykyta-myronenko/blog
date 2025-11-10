@@ -23,6 +23,7 @@ It is important to note that bot demolition and construction events are merely s
 How does a culture grapple with the tangible qualities, and the flaws of post-war social housing, while recognising the intangible impact on the collective memories they hold; and what can we learn from the layers ideological footprint contained within these controversial architectural objects about the Soviet decisions and the slew of unintended consequences they carried.
 
 ## 1. Birth & Death
+
 Ravaged by WW2 and Joseph Stalin's rule Soviet cities were facing an unprecedented housing crisis. Determined by the pompously opulent Postconstructivist (Stalinist Neoclassical) architecture, the spatial forms of Moscow's inner city were unprepared for the industrialising (and therefore urbanising) post-war USSR landscape.^[Snopek, _Belyayevo Forever_, 24.] The elimination of the housing shortage, which began with the collectivisation and active industrialisation in the 1930s, was one of the main priorities of the so-called Khrushchev Thaw.^[Erofeev, 'Estetika Sovetskoi Zhiloy Arhitektury'.]
 
 > **Intelligentsia**- intellectuals or highly educated people as a group, especially when regarded as possessing culture and political influence.
@@ -52,7 +53,6 @@ The third generation (1971-85), under II-Л.1-71, became more relaxed as the res
 In 1954, first thing after becoming the General Secretary of State, Khrushchev releases a decree _On the Elimination of Excesses in Design and Construction_ in which he outlines the introduction of standardisation through inclusion of design catalogues, demanding industrialised construction in favour of 'bespoke masterpieces', and denouncing the exuberant pompous details, in preference of a new honest, modest and simple way of expression.
 
 > **mikroraion** (pl. mikroraiony) - micro-district; a residential neighbourhood, containing all the needed amenities for a Soviet citizen, and acting as an atomic module for urban planning.
-
 
 ![(Fig.1) — Exhibition of advancements in Soviet science, technology and culture in New York.](https://www.dropbox.com/scl/fi/9ue3kyzb9ms2h89oqov1p/_soviet_advances_new_york_exhibition.jpg?rlkey=nptanpb9i0xe1k2hjc9o9dp2j&raw=1)
 
@@ -99,6 +99,7 @@ Some may say that rationalising past decisions with past context does not excuse
 It is clear, however, that not every 'outdated' building is valued equally. For instance, Moscow's "Arсhnadzor" (Architectural Supervision Bureau) had released a statement, requesting to exclude approximately 320 buildings, constructed prior to the 1950s-60s typological housing series.^[Kommersant, 'Archnadzor Prosit Ne Priravnivat'']
 
 ## 2. Perception & Response
+
 In first 30-year construction span of the original first-generation 'khrushchevki' the government was a able to settle 30 million people or almost half of the Soviet population, giving millions of families a taste of privacy for the first time. Despite this the now 60-year old typology is a subject of controversy. The divisive nature of Soviet mass housing, and khrushchevki in particular evokes a wide variety of strong responses, with views and opinions differing immensely, depending on the background and perspective of the person asked. The main point of discussion is understanding why the controversy has a place to be among the members of public and what some of the reasons for it may be. The scale of implementation, and the vast time frame means that the sheer number people impacted by the Khrushchev housing revolution is inconceivable. It would be unfair to approach the argument of demolition from an absolutist point of view. There is a place for demolition but the subject has to be approached mindfully.
 
 > "After Eighteen Years of endless petitioning to various authorities, waiting patiently, the Kolosov family were overjoyed to finally invite to their housewarming all the co-workers and the government officials, who had tirelessly intervened on their behalf to secure for them the new housing. As the list grew, they fretted they would not have enough space to welcome all who had their helping hand of assistance and encouragement, however, no one will show up to the housewarming anyway - not because of other commitments, but because in actuality, everything remained unchanged, as it had been for years. The Kolosovs are still huddled in a crowded komunalka, as their petition moving from hand to hand, grows thicker with the resolutions of clerk officials."^[A paraphrased humorous tale of the cancelled housewarming, satirising the Soviet bureaucracy and the endless queue for the new panel housing; Aleksandrova, L., 'Nesostoiavsheesia novosel'e', _Krokodil_, no.5, 20 February 1957, 13.]
@@ -115,14 +116,13 @@ A lot of the reasoning behind individual powerlessness, stems from the contradic
 
 > **Gosstroi** - acronym for State Committee for Construction.
 
-For the creation of the typological series catalogue architects, city planners and engineers worked under one roof in state centralised Zonal Design Institutes (or _ZNIIEP_s of housing). The institutes followed an integrated working method and were responsible for the entire planning process.^[For the system and operation of Soviet Design Institutes see: Matveeva, N. J.: Architectural Scientific Institutes. In: The Great Soviet Encyclopedia, Moscow 1979.] Since standard designs were registered, projects were subject to a simplified planning procedure where for the most part only the connections to the existing urban infrastructures had to be evidenced, otherwise following the predetermined roadmap. Construction was treated as an assembly of prefabricated elements and projects were subject to a simplified planning process - plans were essentially assembly instructions.^[Meuser and Zadorin, _Towards a Typology of Soviet Mass Housing_]
+For the creation of the typological series catalogue architects, city planners and engineers worked under one roof in state centralised Zonal Design Institutes (or _ZNIIEP_s of housing). The institutes followed an integrated working method and were responsible for the entire planning process.^[For the system and operation of Soviet Design Institutes see: Matveeva, N. J.: Architectural Scientific Institutes. In: The Great Soviet Encyclopedia, Moscow 1979.] Since standard designs were registered, projects were subject to a simplified planning procedure where for the most part only the connections to the existing urban infrastructures had to be evidenced, otherwise following the predetermined roadmap. Construction was treated as an assembly of prefabricated elements and projects were subject to a simplified planning process - plans were essentially assembly instructions.^[Meuser and Zadorin, \_Towards a Typology of Soviet Mass Housing_]
 
 ![(Fig.2) — Anti-bourgeoisie poster from 1930s, saying "Let’s eliminate the kulak as a class!"](https://www.dropbox.com/scl/fi/n9l4iws3dovekq8uztmx7/_lets_eliminate_kulak_as_a_class.jpg?rlkey=y2e39o93tpzug8vivcpy1uw2c&dl=1)
 
 To maintain the centralised control over housing development, Gosstroi made primary decisions in Moscow, however, the directives were adjusted in ZNIIEP departments of respective republics under Moscow's guidelines. Zonal Design Institutes such as TbilZNIIEP (Caucasus), KievZNIIEP (southern Europe), SibZNIIEP (Siberia), LenZNIIEP (northern Europe) and TashZNIIEP (Central Asia) were responsible for regional adaptations and even had opportunities to implement slight modifications to balconies, entrances and mosaic facades.^[Meuser and Zadorin, _Towards a Typology of Soviet Mass Housing_, 16.]
 
 > **2023/10/05 update:** The [link to the poster](https://bigenc.ru/media/2016/10/27/1235196419/17817.jpg) in Fig.2 I had originally used in this article is no longer accessible. It was hosted on Big Russian Encyclopedia, but the page now gives error 404. I have since moved all images to local file storage.
-
 
 Khrushchev-era development was a direct response to the Stalin-era housing, which, despite the revolutionary slogans of years prior, was not far-removed from the bourgeois principles that were denounced by the revolution. Constructivist architects, that were building special houses for elites, while also keeping the masses in small wooden barracks, recognised the problematic nature of this housing. Under the Stalinist logic of _kul'turnsost'_, the privileges of the Soviet Intelligentsia were justifiable as they would in theory trickle down to the rest of population once the communism was finally built. In the meantime, elites got exquisite _stalinki_, while the masses got the wooden Stalinist barracks.^[Sheila Fitzpatrick, "Becoming Cultured: Socialist Realism...]
 
@@ -227,7 +227,6 @@ An only after khurchchevkas were introduced people could do what they wanted at 
 > **samizdat** - the clandestine copying and distribution of literature banned by the state.
 
 > "But its \[the room's\] main advantage was the walls. Neither the shining white ceiling with a stuccoed circle in the centre, nor the glossy yellowness of the parquet, were as enjoyable as these four thick, soundproof walls. They protected them with a stone chest from prying eyes, allowed them to jump, fool around, talk all sorts of nonsense, look into each other's eyes"^[In his book called After Wedding, Granin desribes a couple of newlyweds first moving into their home; Granin, _Posle Svad'by_.]
-
 
 ## Conclusion
 
