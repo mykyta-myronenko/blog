@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-GB",
+    locale: "en-US",
     baseUrl: "mykyta-myronenko.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
