@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-UK",
-    baseUrl: "https://mykyta-myronenko.github.io/blog/",
+    baseUrl: "mykyta-myronenko.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
