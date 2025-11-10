@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Mykyta Myronenko",
-    pageTitleSuffix: "mykyta",
+    pageTitleSuffix: " - mykyta",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-UK",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "en-US",
+    baseUrl: "mykyta-myronenko.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
