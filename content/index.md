@@ -1,7 +1,16 @@
 ---
-{"publish":true,"permalink":"home","title":"Home","created":"2024-10-04","modified":"2025-11-10","published":"2024-10-04","cssclasses":"","date published":"2024-10-04","date last modified":"2025-11-10"}
+{
+  "publish": true,
+  "permalink": "home",
+  "title": "Home",
+  "created": "2024-10-04",
+  "modified": "2025-11-10",
+  "published": "2024-10-04",
+  "cssclasses": "",
+  "date published": "2024-10-04",
+  "date last modified": "2025-11-10",
+}
 ---
-
 
 Hi! I'm a London-based, artist. My current focus is film making and animation.
 
