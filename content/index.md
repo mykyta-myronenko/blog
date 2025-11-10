@@ -12,4 +12,3 @@ If you are interested in collaborating on a project, or want to have a chat, don
 For the list of the tools I use, see [[My Toolbox]].
 
 ---
-
