@@ -13,14 +13,3 @@ For the list of the tools I use, see [[My Toolbox]].
 
 ---
 
-![[Treat film like painting]]
-
-![[Astronaut Concept Art]]
-
-![[What I learned modelling in Blender for the first time]]
-
-![[Working on my first films with zero skills]]
-
----
-
-- [[In Defence of Faceless and Mundane]]
