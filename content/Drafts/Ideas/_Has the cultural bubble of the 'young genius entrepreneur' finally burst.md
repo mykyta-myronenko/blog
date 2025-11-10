@@ -3,7 +3,6 @@ title: Has the cultural bubble of the 'young genius entrepreneur' finally burst?
 tags:
   - blog
 ---
-
 > [!warning] Spoilers for Glass Onion ahead
 
 A Knives Out story 'Glass Onion', purposefully or not lampoons the rich 'geniuses' like Elon Musk, Sam Bankman Fried, and Mark Zuckerburg showcasing the ineptitude of the characters that have been built up as proteges that always have a plan, are playing 5D chess.

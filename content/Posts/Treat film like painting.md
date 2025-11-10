@@ -75,5 +75,4 @@ My concluding point comes down to this. Who is to say that the 1895 version of _
 If you can find an approach to create without being held hostage by your own piece of work, then the relationship with the process becomes a lot less painful.
 
 [^1]: I know nothing about fine art or art history, but it’s pretty fun to see the whole progression of Cézanne’s work. You can see it here: [Paul Cézanne (wikiart.org)](https://www.wikiart.org/en/paul-cezanne/all-works#!#filterName:Style_cubism,resultType:masonry)
-
 [^2]: Or a thumbnail. Thumbnails are like really simple comics. You get the camera movement, the characters, some direction, but very little detail.

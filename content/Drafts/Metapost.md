@@ -3,7 +3,6 @@ This is a post to give an overview over the Blog project as a whole.
 ![[Thoughts/2 Slipboxes/2024/Response blogs for job searching]]
 
 # Todos
-
 ```query
 tag:blog tag:todo
 ```
@@ -13,6 +12,7 @@ tag:blog tag:todo
 ```query
 tag:blog tag:idea
 ```
+
 
 # Questions
 

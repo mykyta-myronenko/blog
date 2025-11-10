@@ -2,9 +2,9 @@ An idea for a social media brand. I think this is a concept that resonates with 
 
 What I post here is a work-in-progress product, which generally is what I think of anything ever made -- it is never final, and never permanent. It is a snapshot in time, a working title, a progress report.
 
-I don't use it as an excuse for shoddy work (that wouldn't fly with audiences anyway) but I use it as a personal motto, that should alleviate some of the perfectionism, be less afraid to make mistakes and to learn in public.
+I don't use it as an excuse for shoddy work (that wouldn't fly with audiences anyway) but I use it as a personal motto, that should alleviate some of the perfectionism, be less afraid to make mistakes and to learn in public. 
 
-_Thinking Papers_ is an approach that works for my brain, so the point of this experiment is to embrace it as a tool for sense-making and to sharing my working notes with others.
+*Thinking Papers* is an approach that works for my brain, so the point of this experiment is to embrace it as a tool for sense-making and to sharing my working notes with others.
 
 ## Stories
 
@@ -18,9 +18,9 @@ https://www.instagram.com/p/CuhX_JDMWgn/?img_index=5
 
 ### Limehouse Marina photos
 
-- [ ] look over existing photos and videos.
-  - [ ] pick the best, and which need to be retaken
-  - [ ] go on site at different times of day
+- [ ] look over existing photos and videos. 
+	- [ ] pick the best, and which need to be retaken
+	- [ ] go on site at different times of day
 
 ### Revit Rus'ki Tyshky Drawings
 
