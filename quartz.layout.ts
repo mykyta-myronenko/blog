@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "YouTube Channel": "https://www.youtube.com/@nickshats",
+      GitHub: "https://github.com/jackyzha0/quartz",
+      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
@@ -40,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // Component.Graph(),
+    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
