@@ -1,10 +1,7 @@
 ---
-permalink: giving-film-making-best-shot
-publish: true
-date published: 2024-09-16
-tags:
-  - film_making
+{"publish":true,"permalink":"giving-film-making-best-shot","created":"2024-09-16","modified":"2025-11-10T18:34:29.987+00:00","published":"2024-09-16","tags":["film_making"],"cssclasses":""}
 ---
+
 
 It has been a while that something has excited me as much as the idea of independent film making. With all the free tools we have at our disposal, and the online platforms for video distribution, combined with risk-averse stagnating traditional cinema, I can’t shake the feeling that we are in a golden age of independent film making.[^1]
 

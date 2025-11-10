@@ -1,11 +1,7 @@
 ---
-permalink: too-anxious-to-create
-publish: true
-date published: 2024-09-16
-tags:
-  - film_making
-  - architecture
+{"publish":true,"permalink":"too-anxious-to-create","created":"2024-09-16","modified":"2025-11-10T18:33:05.178+00:00","published":"2024-09-16","tags":["film_making","architecture"],"cssclasses":""}
 ---
+
 
 For over a year I’ve had an itch, a desire at the back of my throat to make things. When I sit down and just start, the nagging thoughts fade away and I become immersed in the process. It’s enjoyable, it is what gives me total freedom, a healthy escape. And being consistently creative is what seems to coincide with “the upswing periods”[^1] in my life.
 
