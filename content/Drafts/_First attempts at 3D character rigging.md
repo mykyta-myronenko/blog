@@ -6,11 +6,12 @@ status: draft
 title: Rigging my first 3D character
 publish: "false"
 ---
+
 After getting comfortable with Blender’s functionality for 3D-modelling, I thought why wait and jumped into rigging my first character.
 
 It’s… still work in progress.
 
-But I did find that it's not all so scary — although *very* time-consuming on the first go.
+But I did find that it's not all so scary — although _very_ time-consuming on the first go.
 
 The character I’m modelling is a semi-realistic astronaut for my animated short film.
 
@@ -30,18 +31,22 @@ The short point is, because astronauts are not know for their bombastic animated
 
 # My approach
 
-Before modelling my little space-friend, I looked into some best practices to avoid making silly time-wasting mistakes [that didn't really work]. 
+Before modelling my little space-friend, I looked into some best practices to avoid making silly time-wasting mistakes [that didn't really work].
 
 Here are some concepts that helped me inform my modelling choices:
+
 1. is your character a solid mesh, or split in parts
 2. knowing the different approaches for rigging a solid character vs a character split in several parts
 3. choosing the default modelling pose, between T-pose, A-pose, “Hug-pose”, and other options.
 
 My space…-amigo is not very cartoony. It's a fairly grounded in reality character design, so I’m going with these “configs”:
+
 1. Solid mesh^[I can model parts separately but then use boolean union modifier to merge.]
 2. More-or-less manual rig.^[Because I’m doing a solid humanoid mesh, a lot of the rigging *could* be automated via add-ons. But I’m going down the manual route to learn more. It’s a simple enough rig to do manually I believe.]
 3. “Hug-pose” seems to make the most sense for a space-boy, as astronauts are very fetus-like… in terms of their pose I mean.
 
-[^1]: 
+[^1]:
+
 [^2]: For now… I do want to add two more human characters which will have to be fully rigged (including faces, unless I decide to go the 2D route), so I’m yet to experience the real suffering of character rigging. Before I jump into that mess, I should really finish the storyboard and the voice lines.
+
 [^3]: That actually might benefit from IK for the sake of learning it on a tiniest scale–a single finger–and to simplify the animation process.

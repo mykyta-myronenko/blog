@@ -32,5 +32,7 @@ The good news is that completing projects, I believe, is the best way to learn, 
 It is a lot to learn at once, and I probably should have picked something a lot smaller scope, but that seems less fun. Having all of the little challenges that I must solve keeps me on my toes. In any case, my approach is to break the big scary process down in the tiniest pieces and keep chewing at ‘em until… I’ve eaten all of the little pieces.. and the project is finished? I don’t think this metaphor works.
 
 [^1]: Well, I chose for it to require that. It could be avoided but in my mind the effects I am aiming for will be best sold with 3D volumes.
+
 [^2]: I couldn’t find the original donut modelling tutorial by BlenderGuru, so here’s the most recent: https://www.youtube.com/watch?v=4haAdmHqGOw
+
 [^3]: There are many reasons to not use Adobe, but for me, on a practical level, it just doesn’t work. The video programmes (Premiere Pro and After Effects) are slow, keep crashing, even when working on the simplest edits.

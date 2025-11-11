@@ -6,11 +6,11 @@ tags:
   - architecture
   - blog/wip
 ---
+
 # Digital Thinking & Digital Crafting
 
 %%
+
 - [ ] pictures of Grasshopper algorithms
-
-
 
 %%

@@ -10,20 +10,21 @@ time spent:
 summary:
 tags: blog
 ---
+
 - what's linux
 - why switch
-	- windows has been a pain
-	- control over my own tools and data
-	- Ability to troubleshoot
+  - windows has been a pain
+  - control over my own tools and data
+  - Ability to troubleshoot
 - the journey
-	- transitioning the tools first
+  - transitioning the tools first
 - set up
-	- Picking distro
-	- Daily driver test run
-	- Slowly chipping away at windows partition
+  - Picking distro
+  - Daily driver test run
+  - Slowly chipping away at windows partition
 - ups and downs
-	- sacrificing certain conveniences
-	- surprising performance boost
-	- FOSS is awesome
+  - sacrificing certain conveniences
+  - surprising performance boost
+  - FOSS is awesome
 - Conclusion
-	- Would i recommend (and to who)
+  - Would i recommend (and to who)

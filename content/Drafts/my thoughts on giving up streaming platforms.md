@@ -1,37 +1,33 @@
-
 > [!important] Reign in the scope
 > Could be split into two sister essays.
+>
 > 1. [[When piracy becomes the more ethical option]].
 > 2. Avoiding social algorithms.
-
 
 # Outline
 
 - why curb reliance on social algorithms:
-    - fair pay for artists
-        - $0.004 per stream. 5000 streams to cover what a $20 CD would (or going to see live)
-    - respecting the structure of the album
-    - reducing overstimulation
-    - a more proactive approach to finding, and listening to music
-    - getting rid of FOMO
+  - fair pay for artists
+    - $0.004 per stream. 5000 streams to cover what a $20 CD would (or going to see live)
+  - respecting the structure of the album
+  - reducing overstimulation
+  - a more proactive approach to finding, and listening to music
+  - getting rid of FOMO
 - how (alternatives):
-    - to discover
-        - Bandcamp
-        - Social recommendations
-    - to acquire
-        - purchase
-            - directly from the artist (e.g. Bandcamp)
-            - third party vendors (local music stores)
-            - second hand / bargain (sales, flea markets, charity shops, online)
-            - borrowing from local libraries (i.e. to try out)
-        - piracy
-            - (ethics of piracy vs streaming)
-            - online
-            - ripping from libraries?
-        - hybrid
-
-
-
+  - to discover
+    - Bandcamp
+    - Social recommendations
+  - to acquire
+    - purchase
+      - directly from the artist (e.g. Bandcamp)
+      - third party vendors (local music stores)
+      - second hand / bargain (sales, flea markets, charity shops, online)
+      - borrowing from local libraries (i.e. to try out)
+    - piracy
+      - (ethics of piracy vs streaming)
+      - online
+      - ripping from libraries?
+    - hybrid
 
 # Draft #1
 
@@ -67,4 +63,3 @@ For context, buying a $20 CD would pay the same as 5000 streams. If you listened
 In terms of ethics, and paying artists you care about fairly, then streaming is the worst thing you could do. Or is it?
 
 ###### piracy
-
