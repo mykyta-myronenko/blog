@@ -11,13 +11,7 @@ rsync -av --delete "/home/mykyta/Documents/Writing Machine/Thoughts/8 Interests/
 npx prettier "/home/mykyta/Documents/Blog/content/"
   
 # Stage changes  
-git add content/  
-  
-# Check if there are changes to commit  
-if git diff --staged --quiet; then  
-    echo "No changes to commit"  
-    exit 0  
-fi  
+git add content/
   
 # Commit and push  
 git commit -m "Content sync: $(date '+%Y-%m-%d %H:%M:%S')"  
