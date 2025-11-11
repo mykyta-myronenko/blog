@@ -1,12 +1,12 @@
 ---
-title: "Making #1: Doorstop"
+title: "Making 1: Doorstop"
 author: Mykyta Myronenko
 url: wooden_doorstep
 tags:
   - woodworking
 ---
 
-test
+%%
 
 ###### Outline
 
@@ -17,6 +17,8 @@ test
   -
 - Conclusion
   - the result
+
+%%
 
 The act of making has always provided me immense joy. When I'm fully immersed into any work all the worries fall into the background and I get to focus only on my subject. In those moments I pretty much lose all sense of self (with all its anxiety over minutia), and become an object shaped. It's quite nice.
 
