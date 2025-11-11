@@ -1,7 +1,6 @@
 ---
 title: The site is WIP
 ---
-
 The site is under active development. Currently I am working to covert the more interesting portfolio projects into web posts, adding more of the research and thinking as linked posts. For now some of the projects can be viewed as PDFs.
 
 Here are some of the current questions I am working on include:
@@ -11,9 +10,9 @@ Here are some of the current questions I am working on include:
 - Some observation exercises to study and remain present.
 - How to ask the right questions?
 
----
+***
 
-- Breaking down archispeak, and how it can harm communication.
+- Breaking down archispeak, and how it can harm communication. 
 - Practical applied examples of architecture bringing positive change.
 - Stop designing beautiful prisons. You cannot design the prison culture away.
 - The danger of treating architecture as an art.
@@ -21,13 +20,13 @@ Here are some of the current questions I am working on include:
 - The issues with Le Corbusier's Five Principles.
 - How are observation, analysis and creativity interlinked?
 
----
+***
 
 - Why dams are a bandaid solution to flooding.
 - The overlooked benefits wetlands hold for flood protection, carbon sequestration and more?
 - What architecture can do to can help with major flood events? Beavers, wetlands, and ancient mesoamerican elevated crop lands may have our answer.
 
----
+***
 
 - What were the intangible purposes behind Soviet mass housing? How was the typological landscape used to control its occupants?
 - Inherent flaws of hierarchical systems and what US army structure does to address them.

@@ -5,7 +5,6 @@ tags:
   - film_making
 publish: "false"
 ---
-
 > [!summary]
 > This essay may become something I publish in the future, but at this time it is an SOP for managing film production mostly on my own, and what principles should guide me.
 > This could be a blog post or a video or both!
@@ -33,7 +32,7 @@ Play to you strength.
 
 In most cases you don’t need more than you have to create something. If you have access to the Internet you have all the tools necessary to learn a skill for free, practice it, and share.
 
-Every person is unique and everyone has their own strengths and weaknesses. I consider myself a jack of many trades and master of none. And I don’t even expect to become a master of any. But to me being a generalist is the most fun thing ever. Being able to combine skills and creative ways of thinking from various disciplines is magical, and with every new skill I learn I become a better student, so maybe that’s _my_ strength or something.
+Every person is unique and everyone has their own strengths and weaknesses. I consider myself a jack of many trades and master of none. And I don’t even expect to become a master of any. But to me being a generalist is the most fun thing ever. Being able to combine skills and creative ways of thinking from various disciplines is magical, and with every new skill I learn I become a better student, so maybe that’s *my* strength or something.
 
 # Break it down
 
