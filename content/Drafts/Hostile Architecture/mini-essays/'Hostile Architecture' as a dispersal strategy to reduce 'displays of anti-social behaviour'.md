@@ -1,5 +1,0 @@
----
-tags:
-  - mini-essay
-  - blog
----
