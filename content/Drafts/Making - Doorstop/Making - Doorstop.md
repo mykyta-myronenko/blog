@@ -1,7 +1,7 @@
 ---
-title: "Making 1: Doorstop"
+permalink: wooden_doorstep
+title: "Making: Doorstop"
 author: Mykyta Myronenko
-url: wooden_doorstep
 tags:
   - woodworking
 ---
@@ -12,7 +12,7 @@ tags:
   - always wanted to start making things
   - woodworking - great
 - Body
-  -
+  - ...
 - Conclusion
   - the result
 
