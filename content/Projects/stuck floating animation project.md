@@ -1,7 +1,7 @@
 ---
 permalink: stuck-floating-animation
 publish: true
-date published: 
+date published:
 status: draft
 description: A hybrid animation project set in space.
 ---

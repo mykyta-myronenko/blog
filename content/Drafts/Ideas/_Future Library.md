@@ -6,6 +6,7 @@ tags:
 title: Future Library - Competition Proposal
 url: /competitions/future_library
 ---
+
 # Future Library - Competition Proposal
 
 %%
@@ -17,16 +18,15 @@ I would probably start over. EDIT: okay wow, this was an explosion of text and i
 - [ ] what are the kinds of resources that are inaccessible
 - [ ] Okay, as a final paragraph I think it would be cool of me to just gush about some of the upcoming and current technologies that would be nice to just imagine using for work, and how it can facilitate collaboration and interdisciplinary cross-pollination.
 - [ ] add illustrations to explain some concepts visually
-	- [ ] the process of acreation of sources. How locally sourced books become accessible anywhere in the world
-	- [ ] mock up of two teams collaborating on a linked digital whiteboard from across the globe
-	- [ ] replace the google maps screenshot with a nicely-drawn minimal map
-
+  - [ ] the process of acreation of sources. How locally sourced books become accessible anywhere in the world
+  - [ ] mock up of two teams collaborating on a linked digital whiteboard from across the globe
+  - [ ] replace the google maps screenshot with a nicely-drawn minimal map
 
 ---
 
 The idea of looking at how technology can be used to facilitate learning and discourse in a centralised area is good, and I would be curious to see what new technologies are out there to make things like this possible.
 
-But to take this further I am curious to explore the idea of decentralised research. The big issue with libraries and research centres that are centralised is that you have a limitted access to resources. You can go to your local high-tech library and they may or may not have a book. Your library may or may not have an IT department, with 3D printers, maybe they have some VR, but what if you need LiDAR, or some drone equipment to make arial photgrametry but it's just not there? Well, then you are out of luck. 
+But to take this further I am curious to explore the idea of decentralised research. The big issue with libraries and research centres that are centralised is that you have a limitted access to resources. You can go to your local high-tech library and they may or may not have a book. Your library may or may not have an IT department, with 3D printers, maybe they have some VR, but what if you need LiDAR, or some drone equipment to make arial photgrametry but it's just not there? Well, then you are out of luck.
 
 What if it's not equipment. What if you are working on a difficult project and requrie some qualitative or quantitive data from an area in a different country, or you need someone else's perpsective thousands of miles away, or maybe you want to collaborate on a project.
 
@@ -36,7 +36,7 @@ To begin with you'd have a shared digital archive with all of the resoruces avai
 
 "Okay, but how is this different from the Internet" you say, "I already can access most of the resources from the International Space station! Why are you wasting my time?" Alright, impatient space cadet, I get it. The difference is that at the moment a lot of literature is not accessible online for various reasons. Often times it is locked behind a paywall,^[Yes, a library is also locked in. Even if free to access, you don't get to keep the books, you borrow.] and much of the resources you want are not accessible online but only in the library. The issue then is that each library may have unique information that is locked within it, and the only way to access is to be a local. If libraries could communicate and share their unique catalogues of information digitally, this would make for searching that is far more diverse.
 
-Catalogues being digital and accessible and standardised has so many benefits! I actually don't know all of them but some of the simplest is global search, and translations. Imagine a database that you can search `impact of colonisation on vernacular communities` and recieve results from Mexico, India and Australia, translated into your language(s) with direct access to the source material so you can double-check, accesss to the location of the *physical* library that uploaded these files, and the list of people who are currently working on related projects, whom you can contact to colaborate with or to at least ask some questions. If done right, global collaboration and sharing of information could be possible, and in this case the libraries serve as forums not just for local communities but as portals to like-minded people from all over the globe.
+Catalogues being digital and accessible and standardised has so many benefits! I actually don't know all of them but some of the simplest is global search, and translations. Imagine a database that you can search `impact of colonisation on vernacular communities` and recieve results from Mexico, India and Australia, translated into your language(s) with direct access to the source material so you can double-check, accesss to the location of the _physical_ library that uploaded these files, and the list of people who are currently working on related projects, whom you can contact to colaborate with or to at least ask some questions. If done right, global collaboration and sharing of information could be possible, and in this case the libraries serve as forums not just for local communities but as portals to like-minded people from all over the globe.
 
 Let's talk about the physical space. As mentioned before different areas will have different facilities. Let's say this libarary thing is a franchise that can be built anywhere if it meets certain criteria. Okay, so you are Cornwall and you have access to a library that is decent but doesn't have access to drones. You look at the library equipment database and see that the closest deparment that has drones is in Bath. Great! Just go to Bath to that department get the drone go back to Cornwall, shoot the arial footage, go back to Bath, return the drone and, ugh, go back to Cornwall now stress free but probably a couple hundred £ short. Not ideal at all. What would be ideal is a requesting a drone from that the Bath department, recieve the package in a couple days (probably) delivered alongside the many Amazon orders of canned foods, speakers and sex toys, and then, when done shooting, just keep it Cornwall, until someone else requests it.^[Or use some other more optimal strategy. Like keep tools centralised in the most accessible for by delivery deparments, or have a scoring system that tracks which parts of the country request drones the most, which parts need cameras, which parts need LiDAR sensors most often.]
 
@@ -50,7 +50,7 @@ This brings me to the solutions to having to travel away. You booked your huge-a
 
 ![[Sormano Astronomical Observatory.png]]
 
-How wonderful! This could be you! Except wait, where are you going to stay? The track to the nearest hotel is long and winding. It will be two hours of daily commutes, you've got no time for this, there's space to be observed! 
+How wonderful! This could be you! Except wait, where are you going to stay? The track to the nearest hotel is long and winding. It will be two hours of daily commutes, you've got no time for this, there's space to be observed!
 
 ![[Nearest hotel to the Osservatorio Astronomico Sormano.png]]
 

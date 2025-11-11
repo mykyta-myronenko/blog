@@ -1,4 +1,4 @@
-#blog #idea 
+#blog #idea
 
 The other day one of my reading friends asked me what I’m reading and my response was something like
 

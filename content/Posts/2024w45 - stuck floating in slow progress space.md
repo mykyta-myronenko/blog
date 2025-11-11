@@ -2,15 +2,15 @@
 permalink:
 publish: false
 date started: 2024-10-08
-description: 
-tags: 
+description:
+tags:
 ---
 
 > [!Idea] Weekly updates (overviews/newsletter) linking out to detailed articles.
 > This could be an overview post that very quickly mentions what’s going on, sort of like a newsletter, and links out to more articles with more details where appropriate.
-> 
+>
 > For instance, I want to write further about standing desks and taking charge of your physical environment, but it would really bog down the update and make it into a lop-sided dissertation. That topic is outside of the update article, but the update article can link to it.
-> 
+>
 > This also means I don’t need to finish a huge article about some practice (like storyboarding cards), that might become abandoned before I even finish writing the post. This way I can still share the process and the ideas, and then also elaborate.
 
 # Outline
@@ -23,9 +23,9 @@ tags:
 - bit off too much. scaling back some shots / being more clever about storytelling
 - next steps (temp voice, temp music, timeline)
 
-- be less hard on yourself, allow time and room for exploration, look for ways to enjoy and reward. At least I have found that when I punish myself for not being focused enough, it creates pressure that when I sit down to work “it has to worth the time”, and that’s a mindset that breeds anxiety and discourages me from wanting to create anything. This will lead to burn out, I can tell. Instead I try to remind myself that to sit use my time for making something is worth it *already*.
+- be less hard on yourself, allow time and room for exploration, look for ways to enjoy and reward. At least I have found that when I punish myself for not being focused enough, it creates pressure that when I sit down to work “it has to worth the time”, and that’s a mindset that breeds anxiety and discourages me from wanting to create anything. This will lead to burn out, I can tell. Instead I try to remind myself that to sit use my time for making something is worth it _already_.
 
-# Intro: 
+# Intro:
 
 It's been a few weeks since last update on my [[stuck floating animation project]], in part due to a minor bicycle–metal post–knee accident, and partly because I’ve been a busy bee.
 
@@ -55,7 +55,7 @@ These cards have been a good tool to make better use of my time during the daily
 
 I got my first piano a month ago, and have been practicing (not enough admittedly), and although the progress is not significant I’m getting more comfortable with navigating the notes.
 
-For the score I’ve gone with Cakewalk, which turned out to be a gem in the rough. There are points of it that feel clunky but it works for me. I’ve made a lot of little tests and melodies to try and I’m slowly feeling my way towards my vision. There is no solid vision yet, just fragmented snippets I’m trying to connect, but it's getting clearer. 
+For the score I’ve gone with Cakewalk, which turned out to be a gem in the rough. There are points of it that feel clunky but it works for me. I’ve made a lot of little tests and melodies to try and I’m slowly feeling my way towards my vision. There is no solid vision yet, just fragmented snippets I’m trying to connect, but it's getting clearer.
 
 # Nexf Steps
 
