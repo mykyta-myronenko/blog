@@ -6,8 +6,6 @@ tags:
   - woodworking
 ---
 
-%%
-
 ###### Outline
 
 - Intro
@@ -17,8 +15,6 @@ tags:
   -
 - Conclusion
   - the result
-
-%%
 
 The act of making has always provided me immense joy. When I'm fully immersed into any work all the worries fall into the background and I get to focus only on my subject. In those moments I pretty much lose all sense of self (with all its anxiety over minutia), and become an object shaped. It's quite nice.
 
